@@ -1,0 +1,10 @@
+- Limit location on the lines with a specific domain (children of global
+  location)
+- Keep global inventory number on inventory children ?
+- Remove inventory state on lines
+- Add relate on the inventory children from global inventory lines
+- Add tests
+- Hide confirm button if there is no lines
+- Check complete inventory method (when clicking twice, removing values)
+- Refresh expected quantity and define default quantity ? (see zikzakmedia
+  module)
